@@ -17,6 +17,14 @@
     color: white;
 }
 
+.gradimg {
+    height: 20%;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
 
 /* This is where the typewriter effect starts in about me page*/
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
